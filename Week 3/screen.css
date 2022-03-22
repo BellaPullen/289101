@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+
+body {
+    font-family: Quicksand;
+    margin: 0;
+    
+
+    
+    
+}
+#nav{
+   background-color: 
+       #67bb99;
+    text-align: center;
+    color:#ffffff;
+    padding: 30px;
+    border-bottom: 3px dashed #000;
+    font-weight: 700;
+    word-spacing: 20px;
+    
+    
+}
+
+#header{
+    padding: 50px;
+    text-align: center;
+    background-image: url(img/illustration.gif);
+    background-color: #82D9B0;
+    padding-bottom: 350px;
+}
+
+#logo{
+    width:300px;
+
+}
+
+
+#description, #date{
+    width: 200px;
+    
+}
+
+#register_btn{
+    color: #0000
+    background-color:
+        
+    
+}
+
+#what {
+    padding: 50px;
+    padding-left:50px;
+    font-weight: 100;
+    color:#548C98;
+    text-align:center;
+    background-color: #C7EEDD;
+  
+    
+}
+
+#sponsor_logos {
+    width:400px;
+    padding:50px;
+    padding-left: 300px;
+}
+
+#why{
+    padding: 50px;
+    font-weight: 100;
+    color:#548C98;
+    text-align:center;
+    background-color: #B6EAD3;
+    padding-bottom: 100px;
+    
+    
+    
+}
+
+#where {
+
+    padding: 20px;
+    color:#D06CA5;
+    text-align: center;
+    background-image: 
+        url(img/map.gif);
+    padding-bottom: 400px;
+}
+
+#when {
+    padding:20px;
+    text-align:center;
+    background-color: #469998;
+    background-image: 
+        url(img/wires.png);
+    
+    
+}
+
+#who {
+    padding:20px;
+    text-align:center;
+    background-color:#ffffff;
+     
+    
+}
+
+#footer {
+    width:100px;
+
+    
+}
